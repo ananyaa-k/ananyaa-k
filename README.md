@@ -1,9 +1,6 @@
 ### Hi there, I'm Ananya 👋
 **Security engineer in the making — building at the intersection of AppSec and AI security.**
-
-I'm a cybersecurity grad (B.Tech CSE – Cybersecurity, CMR College, Hyderabad) who's done live security ops at a government CERT and built tools that make vulnerability detection faster and smarter using AI. My focus sits at a specific intersection: traditional security fundamentals — SIEM, incident response, OWASP, vulnerability assessment — combined with an obsession with how AI systems break and how to build better defenses around them.
-
----
+----
 
 ## What I've built
 
@@ -27,18 +24,9 @@ Static code analysis tool that automates vulnerability detection and maps every 
 
 ---
 
-## A few things worth mentioning
-
-- 🥇 **1st place internationally** — Kaspersky SECUR'IT CUP ASIA 2023
-- 🏁 **National Hackathon Finalist** — Rajasthan Police Hackathon & IIT Bombay Trust Lab Women CTF
-- 🎯 **All India Rank 85** — National Cybersecurity Pentathlon CTF
-- 🤖 **Freelance AI Model Evaluator** (2+ yrs) — Evaluated Claude Code, Gemini, Bard on adversarial prompting, RLHF preference ranking, and safety tasks. 92%+ quality scores.
-
----
-
 ## Where I'm at
 
-Wrapping up my B.Tech (graduating 2026), actively looking for security engineering or AI/LLM security roles. I like building things that scale security work, not just reporting on it.
+Actively looking for security engineering or AI/LLM security roles. I like building things that scale security work, not just reporting on it.
 
 ---
 
