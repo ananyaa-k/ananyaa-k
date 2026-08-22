@@ -5,11 +5,6 @@ Security engineering student building tools at the intersection of AppSec and AI
 
 ## What I've built
 
-### 🔴 [PromptGuard](https://github.com/ananyaa-k/promptGuard) — LLM Red-Teaming Platform
-Runs adversarial prompts against LLM system prompts across 40 attack vectors mapped to the OWASP LLM Top 10, then scores each result for severity. Uses an embedding-based similarity cache to avoid re-running duplicate evaluations.
-
-`FastAPI` `Python` `Groq API` `sentence-transformers` `Supabase` `React` `TypeScript`
-
 ### 🔍 [BreachMap](https://github.com/ananyaa-k/BreachMap) — AI-Assisted Static Code Analysis
 Static analysis tool for PHP and Python codebases. Layers AI-assisted classification on top of static analysis output to map findings to OWASP Top 10 and generate remediation guidance. Built during my internship at the Telangana Cyber Security Bureau.
 
